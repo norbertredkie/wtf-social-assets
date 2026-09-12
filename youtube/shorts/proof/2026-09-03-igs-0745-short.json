@@ -1,0 +1,33 @@
+{
+ "producer": "youtube/shorts/make_shorts.py",
+ "kind": "stories",
+ "source_folder": "2026-09-03-igs-0745",
+ "inputs": [
+  {
+   "path": "2026-09-03-igs-0745/igs-0745-1.mp4",
+   "sha256": "099e50dcc16a40f97bfaa14c876b7db27885cd5c80d4c1183720174f8b6b9593"
+  },
+  {
+   "path": "2026-09-03-igs-0745/igs-0745-2.mp4",
+   "sha256": "b2c018c5c347334cd41df767149fa4ae8c29a8e9fb046f888162fb8ddf98a65a"
+  },
+  {
+   "path": "2026-09-03-igs-0745/igs-0745-3.mp4",
+   "sha256": "ee2d310388bc952849dcfc4e2fa470eb73ebd21b8542a10ff828e8572c70d65a"
+  },
+  {
+   "path": "2026-09-03-igs-0745/igs-0745-4.mp4",
+   "sha256": "a5736c1a952f90bf91f6e9e1d02f447b9ad831ea19cefb994c97f465cc1aec8f"
+  }
+ ],
+ "output": "youtube/shorts/proof/2026-09-03-igs-0745-short.mp4",
+ "video_sha256": "0ab2e912f10af70513710869e2af70a23e3f172cf7b0917114346c9b5dcd14f8",
+ "duration_s": 130.66,
+ "width": 1080,
+ "height": 1920,
+ "has_audio": true,
+ "geometry_ok": true,
+ "duration_ok": true,
+ "spend_usd": 0.0,
+ "acceptance": "PRECONDITIONS_ONLY"
+}
