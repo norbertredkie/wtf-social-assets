@@ -1,0 +1,21 @@
+{
+ "producer": "youtube/shorts/make_shorts.py",
+ "kind": "reel",
+ "source_folder": "2026-09-03-igr-0740",
+ "inputs": [
+  {
+   "path": "2026-09-03-igr-0740/igr-0740.mp4",
+   "sha256": "659aaf678adce2720dbe40adb430b3d525ff814d540881ac364c0d809ff8c674"
+  }
+ ],
+ "output": "youtube/shorts/proof/2026-09-03-igr-0740-short.mp4",
+ "video_sha256": "2501c62746b65d74cd85b5fc82f629a4ccd6ad7e8ea15dbc20ab0a68604883c2",
+ "duration_s": 131.23,
+ "width": 1080,
+ "height": 1920,
+ "has_audio": true,
+ "geometry_ok": true,
+ "duration_ok": true,
+ "spend_usd": 0.0,
+ "acceptance": "PRECONDITIONS_ONLY"
+}
