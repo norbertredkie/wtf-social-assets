@@ -1,0 +1,45 @@
+{
+ "producer": "youtube/shorts/make_shorts.py",
+ "kind": "carousel",
+ "source_folder": "2026-09-02-ig-2000",
+ "inputs": [
+  {
+   "path": "2026-09-02-ig-2000/slide-1.mp4",
+   "sha256": "10f82a8a046c9d3d6a197ca78812a583891b5d0b4afcc4f467b02247fac7d09b"
+  },
+  {
+   "path": "2026-09-02-ig-2000/slide-2.mp4",
+   "sha256": "1c89ed05bedfebcb8ea9e56f831ce8bbf6434e5356ee48ee01f18da67ab3093f"
+  },
+  {
+   "path": "2026-09-02-ig-2000/slide-3.mp4",
+   "sha256": "2e678ae187cd0deec89ca72748f2fc0feb8652b344306648d1ccc6075eadf11b"
+  },
+  {
+   "path": "2026-09-02-ig-2000/slide-4.mp4",
+   "sha256": "155fc4e7ec9f8cbf65d352198f085a6047142bd6ff6a79e84b1d187cc891ab24"
+  },
+  {
+   "path": "2026-09-02-ig-2000/slide-5.mp4",
+   "sha256": "4ceeb20433b018e702b113413cebebef7a69e22d3e0baf93bf709de2fca6b658"
+  },
+  {
+   "path": "2026-09-02-ig-2000/slide-6.mp4",
+   "sha256": "951c1486e91abbd47d9ec8f7a08d59212a839373449d27f3d66402aa34ba14d6"
+  },
+  {
+   "path": "2026-09-02-ig-2000/slide-7.mp4",
+   "sha256": "944f361dfc8f11afdd22ad7227c9f236a6cb5ee6856e9bcea3e2cf96fe8e0f84"
+  }
+ ],
+ "output": "youtube/shorts/proof/2026-09-02-ig-2000-short.mp4",
+ "video_sha256": "4f68f8319b892f37cc6a08e98ef5dec78563ad72d0f02173bd55f37fece776e3",
+ "duration_s": 117.6,
+ "width": 1080,
+ "height": 1920,
+ "has_audio": true,
+ "geometry_ok": true,
+ "duration_ok": true,
+ "spend_usd": 0.0,
+ "acceptance": "PRECONDITIONS_ONLY"
+}
